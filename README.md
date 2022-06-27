@@ -1,2 +1,1 @@
-# lsaml
-Learn Statistical Analysis and Machine Learning
+# Learn Statistical Analysis and Machine Learning using {tidyverse} & {tidymodels}
