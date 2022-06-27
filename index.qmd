@@ -1,0 +1,14 @@
+# Selamat Datang {.unnumbered}
+
+**Buku ini masih berupa draft dan dalam tahap penulisan**. Pembaruan terakhir buku ini pada **`r trimws(format(Sys.Date(), "%e %b %Y"))`**.  
+
+Bagi Anda yang ingin memperoleh versi cetak atau PDF dari buku ini, mohon maaf karena hingga saat ini buku ini **hanya bisa diakses secara online di alamat** <https://bookdown.org/aepstk/saml/>.  
+
+Jika ada pertanyaan, kritik dan saran, atau diskusi ketika Anda menemukan error saat Anda mencoba program dalam buku ini, Anda dapat mengirimkannya melalui email ke aephidayatuloh.mail@gmail.com dengan subject email "Buku Learning Statistical Analysis and ML".  
+
+Anda juga dapat mengakses buku yang lain di alamat:  
+
+* Pengantar Pemrograman R dan RStudio (<https://bookdown.org/aepstk/intror/>)  
+* Aplikasi Analisis Data untuk Bisnis (<https://bookdown.org/aepstk/analisisdatabisnis/>)  
+* Visualisasi Data yang Efektif (<https://bookdown.org/aepstk/visualisasiefektif/>)  
+
