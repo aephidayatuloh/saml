@@ -1,0 +1,39 @@
+project:
+  type: book
+
+book:
+  title: "Learn Statistical Analysis and Machine Learning"
+  author: "Aep Hidayatuloh"
+  date: "6/27/2022"
+  cover-image: cover.png
+  page-navigation: true
+  page-footer: "Copyright 2022, Aep Hidayatuloh" 
+  search: true
+  repo-url: https://github.com/aephidayatuloh/lsaml/
+  repo-actions: [edit]
+  downloads: [pdf, epub]
+  sharing: [twitter, facebook]
+  chapters: 
+    - index.qmd
+    - part: "Part I : Introduction" 
+      chapters:
+        - index.qmd
+        - intro.qmd
+    - part: "Part II : Data Preparation"
+      chapters: 
+        - summary.qmd
+        - references.qmd
+
+comments:
+  hypothesis: true
+  
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
