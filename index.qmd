@@ -4,7 +4,7 @@
 
 Bagi Anda yang ingin memperoleh versi cetak atau PDF dari buku ini, mohon maaf karena hingga saat ini buku ini **hanya bisa diakses secara online di alamat** <https://bookdown.org/aepstk/saml/>.  
 
-Jika ada pertanyaan, kritik dan saran, atau diskusi ketika Anda menemukan error saat Anda mencoba program dalam buku ini, Anda dapat mengirimkannya melalui email ke aephidayatuloh.mail@gmail.com dengan subject email "Buku Learning Statistical Analysis and ML".  
+Jika ada pertanyaan, kritik dan saran, atau diskusi ketika Anda menemukan error saat Anda mencoba program dalam buku ini, Anda dapat mengirimkannya melalui email ke aephidayatuloh.mail@gmail.com dengan subject email "Buku Statistical Analysis and ML".  
 
 Anda juga dapat mengakses buku yang lain di alamat:  
 
